@@ -1,0 +1,13 @@
+#selection-button {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  font-size: 14px;
+  text-align: center;
+  cursor: pointer;
+  display: none;
+  z-index: 9999;
+  background: none;
+  border: none;
+  padding: 0;
+}
